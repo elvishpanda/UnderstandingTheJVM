@@ -2,7 +2,11 @@ package com.xhtc.Chapter2;
 
 /**
  * Created by Zetrov on 2016/7/5.
+ * VM Options: -Xss2M
+ *
+ * 电脑假死！
  */
+
 public class JavaVMStackOOM {
 
     private void dontStop(){
