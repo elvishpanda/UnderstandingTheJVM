@@ -12,6 +12,7 @@ import java.util.List;
  * 通过参数-XX:+HeapDumpOnOutOfMemoryError可以让虚拟机在出现内存一出异常时Dump出当前的内存堆转储快照以便事后进行分析。
  *
  */
+
 public class HeapOOM {
 
     static class OOMObject{
